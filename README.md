@@ -1,6 +1,6 @@
 # WordCrack
 
-WordCrack is a simple game where you guess words.
+WordCrack is a simple game where you guess words. Each day has a different word.
 
 ## Installation
 
